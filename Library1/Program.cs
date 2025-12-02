@@ -16,7 +16,7 @@ namespace Library1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmBuku());
+            Application.Run(new Login());
         }
     }
 }
